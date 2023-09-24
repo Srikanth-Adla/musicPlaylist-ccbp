@@ -1,0 +1,10 @@
+.image {
+  height: 95px;
+  width: 125px;
+}
+.button {
+  margin: 10px;
+}
+.list-item {
+  list-style-type: none;
+}
